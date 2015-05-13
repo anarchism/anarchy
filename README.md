@@ -1,7 +1,8 @@
 # Description
 
 This is a collection of projects related to Anarchy and Anarchism.
-This project is an revolutionary platform for Anarchists.
+
+This project is a revolutionary platform for Anarchists.
 
 # Goals
 
