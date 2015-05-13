@@ -10,5 +10,6 @@ This project is an revolutionary platform for Anarchists.
 - To make the use of the [Simple English][Simple English] ([Basic English][basicEnglishWordList])
   - This makes a platform/project easier to undestand for non-native English speakers.
 
-[Simple English][https://en.wikipedia.org/wiki/Basic_English]
-[basicEnglishWordList][https://simple.wikipedia.org/wiki/Wikipedia:Basic_English_combined_wordlist]  
+
+[Simple English]: https://en.wikipedia.org/wiki/Basic_English
+[basicEnglishWordList]: https://simple.wikipedia.org/wiki/Wikipedia:Basic_English_combined_wordlist
