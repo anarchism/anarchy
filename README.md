@@ -25,6 +25,6 @@ This project is a revolutionary project for Anarchists.
 
 [Simple English]: https://en.wikipedia.org/wiki/Basic_English
 [basicEnglishWordList]: https://simple.wikipedia.org/wiki/Wikipedia:Basic_English_combined_wordlist
-[PreR]: https://github.com/anarchism/anarchy/PreR.md
-[MidR]: https://github.com/anarchism/anarchy/MidR.md
-[PostR]: https://github.com/anarchism/anarchy/PostR.md
+[PreR]: https://github.com/anarchism/anarchy/blob/master/PreR.md
+[MidR]: https://github.com/anarchism/anarchy/blob/master/MidR.md
+[PostR]: https://github.com/anarchism/anarchy/blob/master/PostR.md
