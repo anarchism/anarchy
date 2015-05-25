@@ -18,9 +18,9 @@ This project is a revolutionary project for Anarchists.
 ## Contents
 
 - The project is split into smaller sections:
-  - Pre-Revolution
-  - Mid-Revolution
-  - Post-Revolution
+  - [Pre-Revolution][PreR]
+  - [Mid-Revolution][MidR]
+  - [Post-Revolution][PostR]
 
 
 [Simple English]: https://en.wikipedia.org/wiki/Basic_English
